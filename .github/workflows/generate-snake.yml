@@ -21,8 +21,8 @@ jobs:
 
       - name: Commit and Push Snake Animation
         run: |
-          git config --local user.name "GitHub Action"
-          git config --local user.email "action@github.com"
+          git config --local user.name "PersonalSonu"
+          git config --local user.email "darkgithub16457@gmail.com"
           git add dist/snake.svg
           git commit -m "Generate snake animation"
           git push
