@@ -44,17 +44,40 @@ I'm a **data enthusiast** and a **passionate web developer** who loves turning c
 
 ## 🌟 Featured Projects
 
-- **[Project 1 Name]**: A deep dive into [specific tech/skill], showcasing [describe briefly].
-- **[Project 2 Name]**: Leveraging [specific tech/skill] to build [describe briefly].
+### Business 360 – Brick & Mortar and E-Commerce
+[Power BI | SQL | Excel | DAX Studio] | [Live View](https://app.powerbi.com/view?r=eyJrIjoiM2M5YzE2N2YtNjMxNi00Njc4LWI0MmYtZDZhMDNkMTI3MmMwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- Customized a multi-functional Power BI dashboard to analyze AtliQ Hardware's sales trends across the global market by integrating data from Excel/CSV files and a SQL database.
+- Built the data model and visualizations in Power BI, optimizing the report with DAX Studio, which improved performance by 5%.
+- Developed a dashboard enabling AtliQ Hardware to analyze department sales trends, driving a projected 10% revenue acceleration and a 20% reduction in data-related expenses.
 
-## 🤝 Let's Connect
+### P&L Report
+[Excel | Pivot Table | Power Query] | [GitHub](https://github.com/PersonalSonu/P-L_Analysis_Report)
+- Generated a comprehensive P&L report for AtliQ Hardware FY 2022, utilizing advanced Excel features such as Pivot Tables and DAX for detailed insights into revenue streams and expense categories.
+- Automated data cleaning with Power Query, saving approximately 4 hours of manual work.
+- Deployed DAX-based calculation models, resulting in a 30% increase in report accuracy and offering more nuanced, flexible data insights.
 
-- **LinkedIn**: [Your LinkedIn](your-linkedin-profile-url)
-- **Twitter**: [Your Twitter](your-twitter-profile-url)
-- **Portfolio**: [Your Portfolio](your-portfolio-url)
+### AtliQ_Analysis
+[Python | NumPy | Pandas | Matplotlib] | [GitHub](https://github.com/PersonalSonu/AtliQ_Analysis)
+- Led the development and execution of a comprehensive Python data analysis project, demonstrating advanced data handling, processing, and visualization skills.
+- Utilized Python libraries such as Pandas, NumPy, and Matplotlib to conduct in-depth data analysis, identifying key trends, patterns, and anomalies.
+- Detected significant trends and patterns, including seasonal variations and correlations between key variables.
 
+
+## 📫 Contact Me
+
+- **Email:**
+  
+  [<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="40" height="40"/>](sonukumar149000@gmail.com)
+  
+- **LinkedIn:**
+  
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>](http://www.linkedin.com/in/sonukumarpv)
+
+## Fun Fact
+💡 I’m always seeking out new data and data-related technologies. Whether it’s exploring the latest in analytics tools or diving into new programming libraries, I’m passionate about staying at the cutting edge of the data world!
+  
+---
 Feel free to explore my repositories, reach out for collaboration, or just drop a message! I'm always excited to learn, share, and build something amazing together.
-
 ---
 
 "Turning data into decisions and ideas into reality."
