@@ -25,7 +25,7 @@ I'm a **data enthusiast** and a **passionate web developer** who loves turning c
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/>
 
- ##🌐 Web Development Stack
+ ## 🌐 Web Development Stack
 
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
