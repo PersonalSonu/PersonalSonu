@@ -75,9 +75,36 @@ I'm a **data enthusiast** and a **passionate web developer** who loves turning c
 
 ## Fun Fact
 💡 I’m always seeking out new data and data-related technologies. Whether it’s exploring the latest in analytics tools or diving into new programming libraries, I’m passionate about staying at the cutting edge of the data world!
+
+
+## 🎱 Magic 8-Ball
+
+![Magic 8-Ball](https://upload.wikimedia.org/wikipedia/commons/e/eb/Magic_eight_ball.png)
+**Ask a question, and click the image!**
+
+[![Magic 8-Ball](https://img.shields.io/badge/Ask%20the%208-Ball?-Click%20here-orange)](https://en.wikipedia.org/wiki/Magic_8-Ball)
+
+
+## 💬 Random Programming Quote
+
+![Programming Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PersonalSonu&layout=compact&theme=radical)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=PersonalSonu&theme=radical)
   
 ---
 Feel free to explore my repositories, reach out for collaboration, or just drop a message! I'm always excited to learn, share, and build something amazing together.
 ---
 
-"Turning data into decisions and ideas into reality."
+## ✨ Magic Wand
+<div align='center'>
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Magic Wand" width="100" height="100"/>
+</div>
+
+### "Turning data into decisions and ideas into reality."
+
