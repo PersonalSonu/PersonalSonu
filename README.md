@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontColor=ffffff)
+
 # Hi, I'm Sonu 👋
 
 <div align="center">
@@ -17,6 +19,17 @@ I'm a **data enthusiast** and a **passionate web developer** who loves turning c
 
 - Mastering advanced data visualization techniques.
 - Diving into Data World.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=20&labelColor=3776AB&color=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white&logoWidth=20&labelColor=F2C811&color=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&logoWidth=20&labelColor=217346&color=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=20&labelColor=4479A1&color=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=20&labelColor=E34F26&color=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=20&labelColor=1572B6&color=white)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=20&labelColor=20232A&color=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&logoWidth=20&labelColor=339933&color=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&logoWidth=20&labelColor=4EA94B&color=white)
+
 
 ## 💻 Data Analysis Tools
 
@@ -91,4 +104,15 @@ Feel free to explore my repositories, reach out for collaboration, or just drop 
 </div>
 
 ### "Turning data into decisions and ideas into reality."
+
+![GitHub Fun](https://img.shields.io/badge/Fun-Badge-brightgreen?style=for-the-badge&logo=smile&logoColor=white)
+![Coffee](https://img.shields.io/badge/Coffee-Lover-%23FFDDC1?style=for-the-badge&logo=coffee&logoColor=brown)
+![Night Owl](https://img.shields.io/badge/Night%20Owl-%232E3440?style=for-the-badge&logo=moon&logoColor=white)
+![Data Detective](https://img.shields.io/badge/Data-Detective-blue?style=for-the-badge&logo=search&logoColor=white)
+![Emoji Master](https://img.shields.io/badge/Emoji-Master-yellow?style=for-the-badge&logo=star&logoColor=orange)
+![Debugger](https://img.shields.io/badge/Debugger-Proficient-red?style=for-the-badge&logo=bug&logoColor=white)
+![Game On](https://img.shields.io/badge/Game%20On-Green?style=for-the-badge&logo=controller&logoColor=white)
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thank%20you%20for%20visit!&fontSize=50&fontColor=ffffff)
 
